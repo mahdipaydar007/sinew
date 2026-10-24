@@ -1,0 +1,7 @@
+{
+  "appId": "app.sinew.gym",
+  "appName": "Sinew",
+  "webDir": "www",
+  "backgroundColor": "#e0e5ec",
+  "android": { "allowMixedContent": false }
+}
